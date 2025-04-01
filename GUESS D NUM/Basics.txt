@@ -1,0 +1,5 @@
+This program based in Core java named"Guess the Number Game" project.
+this code sticks to core java helps to revise some basic concepts such as- variables , loops, condationals , user input and output. making it perfect for revising core java basics.
+
+String playAgain;                    // To store play again choice
+Random rand = new Random();          // For random number generation
