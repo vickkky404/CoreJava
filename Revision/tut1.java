@@ -5,5 +5,15 @@ public class tut1{
 
         // printing
         System.out.println("java Practice");
+
+        // looping
+
+        int age = 20;
+        for(int i=0; i<5; i++){
+            System.out.println("i = " + i);
+        }
+
+        
+        
     }
 }
