@@ -1,5 +1,5 @@
 // Abstraction.java - Abstract Classes
-public abstract class Person {
+abstract class Person {
     protected String name;
 
     public Person(String name) {
