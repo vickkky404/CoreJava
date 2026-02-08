@@ -1,3 +1,5 @@
+// Java Program
+
 // Abstraction.java - Abstract Classes
 abstract class Person {
     protected String name;
