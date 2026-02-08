@@ -1,3 +1,4 @@
+// Java Program
 // Animal.java - Inheritance Example
 public class Animal {
     protected String name;
