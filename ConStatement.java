@@ -1,3 +1,5 @@
+// Java Program
+
 import java.util.Scanner;  
 
 public class ConStatement {
@@ -18,3 +20,4 @@ public class ConStatement {
         sc.close();
     }
 }
+
