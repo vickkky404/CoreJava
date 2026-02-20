@@ -5,6 +5,7 @@ public class ArithmeticEx {
             int num1 = 50;
             int num2 = 0;
             // Trying to divide by zero
+            // test
             int result = num1 / num2;
             System.out.println("Result: " + result);
         } catch (ArithmeticException e) {
